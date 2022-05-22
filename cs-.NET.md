@@ -12,3 +12,14 @@
  {.figure}
 
 Με αυτό τον τρόπο φτάσαμε στα .NET 5 και .NET 6 την πλήρης ένωση .NET Framework 4.8 και .NET CORE 3.1 το 2020. Πιο συγκεκριμένα, μια πλατφόρμα δημιουργίας εφαρμογών με πολλές βιβλιοθήκες και δυνατότητες και λειτουργεί σε πολλά λειτουργικά συστήματα όπως Windows, macOS, Linux, Android, iOS, watchOS, tvOS ή χρησιμοποιώντας WebAssembly.[4]
+
+
+
+<br><br><br><br>
+Οι πηγές που χρησιμοποιήθηκαν
+
+1. https://en.wikipedia.org/wiki/.NET_Framework_version_history
+
+2. https://www.altexsoft.com/blog/engineering/the-good-and-the-bad-of-net-framework-programming/
+
+3. https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet
